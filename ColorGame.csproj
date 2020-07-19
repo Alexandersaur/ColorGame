@@ -67,6 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="backgroundfive.jpg" />
+    <Content Include="backgroundfive10.jpg" />
+    <Content Include="backgroundfive20.jpg" />
+    <Content Include="backgroundfive40.jpg" />
     <Content Include="Code.html" />
     <Content Include="CSS\prism %281%29.css" />
     <Content Include="favicon.ico" />
